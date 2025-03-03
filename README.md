@@ -1,4 +1,3 @@
-# file-transfer-app-over-ethernet
 # File Transfer App Over Ethernet
 
 This project is a personal endeavor to create a file transfer application over Ethernet. It was developed to address the issue of frequent ping failures between laptops connected via Ethernet cables. The application not only solves this problem but also facilitates file transfers over Ethernet.
