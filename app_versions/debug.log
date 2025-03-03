@@ -1,0 +1,18 @@
+2025-03-03 16:10:53,380 - DEBUG - switch_mode called. New mode: Receive
+2025-03-03 16:10:53,381 - DEBUG - start_receiver_mode called.
+2025-03-03 16:10:53,381 - DEBUG - advertise_presence thread started with IP: 192.168.1.18
+2025-03-03 16:10:53,381 - DEBUG - receive_file thread started.
+2025-03-03 16:10:53,382 - DEBUG - Switched to Receive mode
+2025-03-03 16:10:53,382 - DEBUG - Set multicast interface to 192.168.1.18
+2025-03-03 16:10:53,382 - DEBUG - Bound to TCP port 8080 for receiving.
+2025-03-03 16:10:53,383 - DEBUG - FileTransferWindow initialized.
+2025-03-03 16:10:53,383 - DEBUG - Advertised 192.168.1.18:8080 to 224.0.0.1:5007
+2025-03-03 16:10:57,763 - DEBUG - on_mode_change called. New mode: Send
+2025-03-03 16:10:57,764 - DEBUG - switch_mode called. New mode: Send
+2025-03-03 16:10:58,403 - DEBUG - receive_file thread stopped.
+2025-03-03 16:10:58,501 - DEBUG - advertise_presence thread stopped.
+2025-03-03 16:10:58,502 - DEBUG - start_sender_mode called.
+2025-03-03 16:10:58,502 - DEBUG - discover_receivers thread started with IP: 192.168.1.18
+2025-03-03 16:10:58,502 - DEBUG - Switched to Send mode
+2025-03-03 16:10:58,502 - DEBUG - Bound UDP socket for discovery on port 5007
+2025-03-03 16:10:58,502 - DEBUG - Joined multicast group 224.0.0.1 on 192.168.1.18

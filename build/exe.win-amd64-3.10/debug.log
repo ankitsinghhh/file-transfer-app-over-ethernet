@@ -1,0 +1,15 @@
+2025-02-21 12:19:31,301 - INFO - Found IPs: ['192.168.1.100', '192.168.1.51']
+2025-02-21 12:19:31,567 - INFO - Sending advertisement from 192.168.1.100
+2025-02-21 12:19:31,567 - INFO - Server socket bound to port 8080
+2025-02-21 12:19:36,580 - INFO - Sending advertisement from 192.168.1.100
+2025-02-21 12:19:41,596 - INFO - Bound to port 5007
+2025-02-21 12:19:41,596 - INFO - Joined multicast group 224.0.0.1 on interface 192.168.1.100
+2025-02-21 12:19:50,077 - INFO - Received from multicast: 192.168.1.101:8080
+2025-02-21 12:19:55,105 - INFO - Received from multicast: 192.168.1.101:8080
+2025-02-21 12:19:59,410 - INFO - Found IPs: ['192.168.1.100', '192.168.1.51']
+2025-02-21 12:19:59,674 - INFO - Sending advertisement from 192.168.1.100
+2025-02-21 12:19:59,751 - INFO - Server socket bound to port 8080
+2025-03-03 16:09:09,687 - INFO - Found IPs: ['192.168.1.18']
+2025-03-03 16:09:09,929 - INFO - Sending advertisement from 192.168.1.18
+2025-03-03 16:09:09,930 - INFO - Server socket bound to port 8080
+2025-03-03 16:09:14,938 - INFO - Sending advertisement from 192.168.1.18
